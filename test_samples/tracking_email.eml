@@ -1,0 +1,39 @@
+From: "Global Retail Deals" <marketing@retailer-discounts.com>
+To: "Valued Shopper" <consumer@domain.com>
+Subject: Flash Sale Alert: 60% Off Winter Cyber Gear & Wearables
+Date: Mon, 16 Nov 2026 06:10:00 +0000
+Message-ID: <tracker-campaign-99120@retailer-discounts.com>
+Authentication-Results: mx.domain.com; spf=pass; dkim=pass; dmarc=pass
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Flash Sale Discounts</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f8fafc; padding: 20px;">
+  <div style="max-width: 600px; margin: 0 auto; background: #ffffff; padding: 24px; border-radius: 8px;">
+    <h1 style="color: #0f172a;">Exclusive 24-Hour Winter Flash Sale</h1>
+    <p style="color: #475569;">Upgrade your tech gear today with unprecedented discounts across our entire catalog.</p>
+    
+    <!-- Tracked marketing outbound hyperlink -->
+    <p>
+      <a href="https://sendgrid.net/wf/click?upn=tracker99201&recipient_id=usr_98240&utm_source=newsletter&utm_medium=email&utm_campaign=winter_sale_2026" 
+         style="background: #0284c7; color: #ffffff; padding: 12px 24px; text-decoration: none; border-radius: 4px; display: inline-block;">
+        Claim Your 60% Discount Now
+      </a>
+    </p>
+
+    <!-- Invisible 1x1 zero-dimension tracking pixel -->
+    <img src="https://sendgrid.net/wf/open?upn=pixel_track_beacon_98240" width="1" height="1" style="display:none; visibility:hidden;" alt="" />
+
+    <!-- Additional third-party marketing telemetry web beacon -->
+    <img src="https://hs-analytics.net/track/open.gif?subscriber_id=sub_77192&mid=msg_8820" width="0" height="0" alt="" />
+    
+    <p style="font-size: 11px; color: #94a3b8; margin-top: 30px;">
+      You received this promotional message because you opted into marketing communications.
+    </p>
+  </div>
+</body>
+</html>

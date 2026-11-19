@@ -1,0 +1,28 @@
+From: "PayPal Account Security" <service-alert@paypa1-security.xyz>
+Reply-To: "Resolution Officer" <ticket-collector@fast-support.top>
+Return-Path: <bounce@unrelated-mailer.click>
+To: "Account Holder" <customer@target-domain.com>
+Subject: URGENT: Your PayPal Account Has Been Suspended - Verify Identity Within 24 Hours
+Date: Mon, 16 Nov 2026 07:45:00 +0000
+Message-ID: <phish-alert-99401@paypa1-security.xyz>
+Authentication-Results: mx.target-domain.com; spf=fail (paypa1-security.xyz: unauthorized IP); dkim=none; dmarc=fail action=quarantine
+Received: from unknown-proxy.top (unknown-proxy.top [185.220.101.5]) by mx.target-domain.com; Mon, 16 Nov 2026 07:45:05 +0000
+Content-Type: text/plain; charset=utf-8
+
+Dear PayPal Customer,
+
+Unauthorized access attempt detected from IP address 185.220.101.5 (Moscow, Russia).
+
+Your account has been temporarily locked for security precautions. Immediate action required.
+You must confirm and verify your identity within 24 hours, or your funds and access will be permanently terminated.
+
+Click below to restore and unlock your account immediately:
+http://192.168.1.100/auth/login?redirect=http://bit.ly/secure-pp-verify
+
+Alternatively, use our backup portal:
+https://xn--pypal-4ve.com/restore-session?user=victim
+
+Do not ignore this notice. Unauthorized activity will result in total account forfeiture.
+
+PayPal Security Operations Team
+Case ID: PP-SEC-9840291

